@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Urchin-Labo/.github/main/logo/urchin-labo.png" alt="Urchin-Labo" width="240">
+  <img src="../logo/urchin-labo.png" alt="Urchin-Labo" width="240">
 </p>
 <p align="center">
   A lab for exploring and evaluating AI, security, and emerging technologies.
